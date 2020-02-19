@@ -166,15 +166,15 @@ a.social {
 }
 
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(../images/twitter.svg);
 }
 
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(../images/linkedin.svg);
 }
 
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(../images/github.svg);
 }
 
 a.social:hover {
