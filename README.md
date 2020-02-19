@@ -1,2 +1,2 @@
-# Simple-Portfolio
-simple personal portfolio website
+# techdegree-project1
+ first project
