@@ -1,2 +1,2 @@
-# techdegree-project1
+# SIMPLE PERSONAL PORTFOLIO WEBSITE
  first project
